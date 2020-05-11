@@ -191,11 +191,11 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 https://dl.dropbox.com/s/eti9qt338a3vhdi/use.m3u8?dl=0
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/useesports2.png" group-title="SPORTS",Usee Sports 2
 https://dl.dropbox.com/s/knv0qbwo11j14qt/use2.m3u8?dl=0
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/champion1.png" group-title="SSPORTS",Champion TV1
+#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/champion1.png" group-title="SPORTS",Champion TV1
 https://dl.dropbox.com/s/1qvilgw0so22gbh/cham.m3u8?dl=0
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/champion2.png" group-title="SPORTS",Champion TV2
 https://dl.dropbox.com/s/faieorutykcu29p/cham2.m3u8?dl=0
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/beinsports1.png" group-title="SSPORTS",beIN Sports 1
+#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/beinsports1.png" group-title="SPORTS",beIN Sports 1
 https://edgejt6.useetv.com/joss/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/beinsports1.png" group-title="SPORTS",beIN Sports 2
 https://cdnbal1.useetv.com/joss/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
