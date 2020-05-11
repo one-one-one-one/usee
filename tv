@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/nettv.png" group-title="INDONESIA LOKAL",NET
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/index.m3u8
+http://45.126.83.51/session/9a1333a4-93cd-11ea-ac63-966cac0014e4/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/antv.png" group-title="INDONESIA LOKAL",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng_87965.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sctv.png" group-title="INDONESIA LOKAL",SCTV
@@ -17,8 +17,6 @@ https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 https://linier.akamaized.net/live/eds/iNews_Logo/sa_hls/iNews_Logo.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tvone.png" group-title="INDONESIA LOKAL",TV One
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-b06c-38c7b36b14d4)/index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/metrotv.png" group-title="INDONESIA LOKAL",Metro
-https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/transtv.png" group-title="INDONESIA LOKAL",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/trans7.png" group-title="INDONESIA LOKAL",Trans 7
@@ -29,32 +27,12 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-
 https://dl.dropbox.com/s/qzl6jtxmhyoyovl/Mytv.m3u8?dl=1
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tvri.png" group-title="INDONESIA LOKAL",TVRI
 https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w1749115649_b684100_sleng_92614.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rtv.png" group-title="INDONESIA LOKAL",RTV
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/jawapostv.png" group-title="INDONESIA LOKAL",Jawapos TV
-https://livetvhooq.akamaized.net/22c46cbe1f2747d1b4766a75d8b06f19/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582796203~exp=9007200837537194~acl=/22c46cbe1f2747d1b4766a75d8b06f19/*/profile_2/chunklist.m3u8*~hmac=ba5ad8fe58195184e20bc0097c41944ac8c60bf812cbb2c5eaebbe9177f0956c&hdnts=st=1582796204~exp=1582796324~acl=/*~id=444764fc-ab71-402c-9c2f-94cf78fb764b~data=36.77.80.127~hmac=736ffc29671da79d6fb7c2e1b91ddb554417a4d19e825fa60859c96d46825004
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/beritasatutv.png" group-title="INDONESIA LOKAL",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/daaitv.png" group-title="INDONESIA LOKAL",Da Ai Indonesia
-https://livetvhooq.akamaized.net/a62c36fd75ff415da7a75c71a732034f/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1582795985~exp=9007200837536976~acl=/a62c36fd75ff415da7a75c71a732034f/*/profile_2/chunklist.m3u8*~hmac=6a77ed118287f73c716a7d72859852d748125873f93f34069663c78f304a240c&hdnts=st=1582795973~exp=1582796093~acl=/*~id=dcf49637-e7f0-4773-95de-6d3e43308c72~data=36.77.80.127~hmac=8c8967ec6e256a2222bc6fc63a977ff44a2a9f61010e1c91af535d0f0de361ef
-
-
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/kawanuatv.png" group-title="TV Daerah",Kawanua TV Manado
-http://122.248.43.138:1935/ch18/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/bmstv.png" group-title="TV Daerah",BMSTV Purwokerto
-http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/bayutv.png" group-title="TV Daerah",BayuTV Nganjuk
-http://wms.klikhost.com/bayutv/live/playlist.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/ruaitv.png" group-title="TV Daerah",RuaiTV Pontianak
-http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/padangtv.png" group-title="TV Daerah",Padang TV
 http://122.248.43.138:1935/ch16/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sultratv.png" group-title="TV Daerah",Sultra TV
-http://122.248.43.138:1935/ch20/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/bandungtv.png" group-title="TV Daerah",Bandung TV
 http://202.150.153.254/bandungtv720p.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/pontv.png" group-title="TV Daerah",Pontianak TV
-http://122.248.43.138:1935/ch15/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rtvriau.png" group-title="TV Daerah",RTV Riau
 http://122.248.43.138:1935/ch11/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/elshintatv.png" group-title="TV Daerah",Elshinta TV
@@ -65,34 +43,14 @@ http://122.248.43.138:1935/ch13/myStream/live.m3u8
 http://122.248.43.138:1935/ch10/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/aditv.png" group-title="TV Daerah",ADiTV Yogyakarta
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/stv.png" group-title="TV Daerah",STV Samarinda
-http://122.248.43.138:1935/ch19/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/radartv.png" group-title="TV Daerah",Radar TV Lampung
-http://122.248.43.138:1935/ch17/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/citratv.png" group-title="TV Daerah",Citra TV Lamongan
-http://122.248.43.138:1935/ch28/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/simpang5.png" group-title="TV Daerah",Simpang 5 TV Pati
-http://122.248.43.138:1935/ch4/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/saktitv.png" group-title="TV Daerah",SaktiTV Madiun
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/barayatv.png" group-title="TV Daerah",Banten Raya TV
-http://barayatv.onlivestreaming.net/barayatv/livestream/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/jektv.png" group-title="TV Daerah",Jek TV Jambi
 http://122.248.43.138:1935/ch14/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/arematv.png" group-title="TV Daerah",Arema TV
-http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w425722557.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/jambitv.png" group-title="TV Daerah",Jambi TV
-http://122.248.43.138:1935/ch23/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/smtv.png" group-title="TV Daerah",SMTV Sumedang
-http://122.248.43.138:1935/ch25/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/paltv.png" group-title="TV Daerah",PAL TV Palembang
-http://122.248.43.138:1935/ch7/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rbtv.png" group-title="TV Daerah",RBTV Bengkulu
 http://122.248.43.138:1935/ch12/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/betv.png" group-title="TV Daerah",BETV Bengkulu
 http://122.248.43.138:1935/ch3/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sbctv.png" group-title="TV Daerah",SBCTV Jatim
-http://wowza58.indostreamserver.com:1935/langoday/live/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/jember1tv.png" group-title="TV Daerah",Jember1 TV
 http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tvku.png" group-title="TV Daerah",TVKU Semarang
@@ -101,10 +59,6 @@ http://103.30.1.14:8080/hls/live.m3u8
 http://122.248.43.138:1935/ch9/myStream/live.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/nirwanatv.png" group-title="TV Daerah",Nirwana TV Bali
 http://122.248.43.138:1935/ch8/myStream/live.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/fajartv.png" group-title="TV Daerah",Fajar TV Makassar
-http://122.248.43.138:1935/ch27/myStream/live.m3u8
-
-
 #EXTINF:-1 logo="http://null.animalpl.png" group-title="INDIHOME",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=FE754EEE11C474F6C90452CF989C02463F35BF77&profile=pass
 #EXTINF:-1 logo="http://null.afn.png" group-title="INDIHOME",Asian Food Channel
@@ -119,8 +73,6 @@ http://203.153.218.28:9981/stream/channelid/78064174?ticket=660D32D50E614C084246
 #http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EBE11ADE30E96AD4B5AFB52CC6F6840F981FD879&profile=pass
 #EXTINF:-1 logo="http://null.cartoonnet.png" group-title="INDIHOME",Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=7E119C03289B159B121AD74C428131F98E22DBB7&profile=pass
-#EXTINF:-1 logo="http://null.cinemax.png" group-title="INDIHOME",Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=471460A2F9702845F696A07FE208D021208CAE47&profile=pass
 #EXTINF:-1 logo="http://null.cnbc.png" group-title="INDIHOME",CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=356480E525DC0ADEA2A40DFD43C0F52D66394C2D&profile=pass
 #EXTINF:-1 logo="http://null.cnninter.png" group-title="INDIHOME",CNN International
@@ -159,36 +111,22 @@ http://203.153.218.28:9981/stream/channelid/648970596?ticket=6A027DC9DC67017F3BC
 http://203.153.218.28:9981/stream/channelid/981299476?ticket=12C9097A699FE253487F44D457A003F3B89E5C36&profile=pass
 #EXTINF:-1 logo="http://null.tctkids.png" group-title="INDIHOME",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=EF9620DAF73176947D92EA2BD20C3AF456F02309&profile=pass
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/hi.png" group-title="LIFESTYLE",Hi!
 https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/index.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/afn.png" group-title="LIFESTYLE",AFN
 https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/food.png" group-title="LIFESTYLE",FOOD
-https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/fashiontv.png" group-title="LIFESTYLE",Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/useephoto.jpg" group-title="LIFESTYLE",Usee Photo
-https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/food.png" group-title="LIFESTYLE",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/hl.png" group-title="LIFESTYLE",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/ruangtrampil.jpg" group-title="LIFESTYLE",Ruang Terampil
-https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566805~exp=9007200824307796~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_2/chunklist.m3u8*~hmac=5f8d7450569ad9000d00b8db64aebce94cf8c2278ae534a3332bed7ecf7c826a
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tv5.png" group-title="LIFESTYLE",TV5 Monde Asie
 https://tv5asieen-i.akamaihd.net/hls/live/631617-b/tv5asieen/tv5asie_eng_1200.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/monde.png" group-title="LIFESTYLE",TV5 Monde Style
 https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tv5pac.png" group-title="LIFESTYLE",TV5 Monde Pacifique
 https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/h1.png" group-title="KNOWLEDGE",History
 https://vcdnjt.useetv.com/joss/15/history/chunklist_w709750080_b894100_sleng_99926.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/outdoorch.png" group-title="KNOWLEDGE",Outdoor
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582795905~exp=9007200837536896~acl=/4333904e5f68426cae808a645e882206/*/profile_3/chunklist.m3u8*~hmac=7e3927c18f846e0b96ceae73fb14f71a6350cd3b6aa0e93e5533ab19892f9bdb&hdnts=st=1582795909~exp=1582796029~acl=/*~id=eeb20e36-c978-4dda-8ffe-f200d829a8bb~data=36.77.80.127~hmac=163c25f215b5189200afeda2ce3883c41917672ddbf70e1b5a63db739909ccff
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/docubox.png" group-title="KNOWLEDGE",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/02.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/h2.png" group-title="KNOWLEDGE",History 2
@@ -203,22 +141,10 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/03.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/discch.png" group-title="KNOWLEDGE",Discovery Channel
 https://vcdnjt.useetv.com/joss/15/disco/chunklist_w149297996_b894100_sleng_99925.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/thepet.png" group-title="KNOWLEDGE",The Pet Collective
-https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/kix.png" group-title="Entertainment",KIX
 https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1011144820_b1344100_sleng_enc=gwi55hzBMDijc2YbDTRCig.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/axn.png" group-title="Entertainment",AXN
-http://210.210.155.66/h/h141/01.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/hits.png" group-title="Entertainment",HITS
-http://210.210.155.66/h/h37/01.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/idku.png" group-title="Entertainment",IdKU
-https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1570264255~exp=9007200825005246~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_2/chunklist.m3u8*~hmac=b2585dab528d7789b7efa413288c124d160ad613913b216bb93c0ca6cdd5f0ea
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/starworld.png" group-title="Entertainment",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/useeprime.png" group-title="Entertainment",Usee Prime
-https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/egg.png" group-title="Entertainment",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/wakuwaku.png" group-title="Entertainment",WakuWaku Japan
@@ -227,8 +153,6 @@ https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1503209643_b894100_sleng_8
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/entertainment.png" group-title="Entertainment",Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/imc2.png" group-title="Movies",IMC
 https://cdnbal1.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng_enc=JPBxYO83_ebZByMY9LTGFA.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/flik.png" group-title="Movies",FLIK
@@ -237,18 +161,10 @@ https://vcdnjt.useetv.com/joss/15/flik/chunklist_w716575246_b894100_sleng_80934.
 https://cdnkbl1.useetv.com/joss/14/thrill/chunklist_w1908435488_b684100_sleng_enc=j-4Qzu_q1WzLnzFvI7gExQ.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/galaxy.png" group-title="Movies",Galaxy
 https://dl.dropbox.com/s/dolswngu7t4xd9e/galaxi.m3u8?dl=0
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/zbioskop.png" group-title="Movies",ZBioskop
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1582800787~exp=9007200837541778~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=3373fc972a6042253eb502f2a58546528e7a4c781c77664892a7a60985d54e3c&hdnts=st=1582800786~exp=1582800906~acl=/*~id=2515e6bc-88e0-4d01-80b8-c4a4ab64ff06~data=36.77.80.127~hmac=0f41a0b2c9d384b7b76cca94395bf0ebe4cc2e277c41eaeb7dbef2279a6550a7
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/warnertv.png" group-title="Movies",Warner TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w447548822_b894100_sleng.m3u8_80931.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/mycinema.png" group-title="Movies",My Cinema
 http://45.126.83.51/x6bnqe/s/s31/index2.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/mnx.png" group-title="Movies",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/moviesnow.png" group-title="Movies",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/romedynow.png" group-title="Movies",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/starmovies.png" group-title="Movies",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/citradrama.png" group-title="Movies",Citra Drama
@@ -259,10 +175,6 @@ http://45.126.83.51/uq2663/h/h04/01.m3u8
 http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sinemaindo.png" group-title="Movies",Sinema Indonesia
 http://45.126.83.51/x6bnqe/s/s71/index2.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/fam.png" group-title="Movies",FOX Action Movies
-http://103.27.206.124:28080/hls/live.stream.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/foxsport.png" group-title="Sports",FOX Sports
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w478388508_b894100_sleng_90945.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/foxsports2.png" group-title="Sports",FOX Sports 2
@@ -293,7 +205,6 @@ https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
 http://207.110.52.62:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/elevensp2.png" group-title="Sports",Eleven Sports 2
 http://207.110.52.62:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/karaoke.png" group-title="Music",Karaoke
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/prambors.png" group-title="Music",Prambors
@@ -308,36 +219,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zing/03.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/zoom.png" group-title="Music",Zoom
 http://livecdnh1.tvanywhere.ae/hls/zoom/03.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceur.png" group-title="Music",Trace Urban
-https://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tracena.png" group-title="Music",Trace Naija
-https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/4/prog_index.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tracemz.png" group-title="Music",Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceto.png" group-title="Music",Trace Toca
-https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceay.png" group-title="Music",Trace Ayiti
-https://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceja.png" group-title="Music",Trace Jama
-https://d2ktlibtvvj8vp.cloudfront.net/trace_jama/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceaf.png" group-title="Music",Trace Africa
-https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tracela.png" group-title="Music",Trace Latina
-https://d2ktlibtvvj8vp.cloudfront.net/trace_latina/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceki.png" group-title="Music",Trace Kitoko
-https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceva.png" group-title="Music",Trace Vanilla
-https://d2ktlibtvvj8vp.cloudfront.net/trace_vanilla/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tracego.png" group-title="Music",Trace Gospel
-https://d2ktlibtvvj8vp.cloudfront.net/trace_gospelsa/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tracebra.png" group-title="Music",Trace Brazuka
-https://d2ktlibtvvj8vp.cloudfront.net/trace_brazuka/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tracetro.png" group-title="Music",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/4/prog_index.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/traceafr.png" group-title="Music",Trace Afrikora
-https://d2ktlibtvvj8vp.cloudfront.net/trace_afrikora/4/prog_index.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/animax.png" group-title="KIDS",Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/aniplus.png" group-title="KIDS",Aniplus
@@ -346,8 +229,6 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 http://45.126.83.51/qwr9ew/s/s50/01.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/larva.png" group-title="KIDS",Larva TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tomjerry.png" group-title="KIDS",Tom Jerry
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/babyfirst.png" group-title="KIDS",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/miaomi.png" group-title="KIDS",Miao Mi
@@ -378,8 +259,6 @@ https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_slen
 https://dl.dropbox.com/s/eyfch39sot2it92/carton.m3u8?dl=0
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/spacetoon.png" group-title="KIDS",Spacetoon Plus
 https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sleng_80925.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/makkahtv.png" group-title="RELIGI",Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/03.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/madinahtv.png" group-title="RELIGI",Madinah TV
@@ -398,8 +277,6 @@ https://edge.siar.us/albahjahtv/live/playlist.m3u8
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/uchannel.png" group-title="RELIGI",U Channel
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/dhammatv.png" group-title="RELIGI",Dhamma TV
-http://119.110.74.237:1935/live/dhammawebtv.stream/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/hiduptv.png" group-title="RELIGI",Hidup TV
 http://202.93.133.3:1935/SVR1/ch_hiduptv.stream_720p/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/iamch.png" group-title="RELIGI",I AM Channel
@@ -408,8 +285,6 @@ http://iamchannel.org:1935/tes/1/chunklist.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/ewtn.png" group-title="RELIGI",EWTN
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/cnnin.png" group-title="News",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/cnbcind.png" group-title="News",CNBC Indo
@@ -430,10 +305,6 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/cgtn.png" group-title="News",CGTN News
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/trtworld.png" group-title="News",TRT World
-https://tv-trtworld.live.trt.com.tr/master_480.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/africanews.png" group-title="News",Africa News
-http://1904441568.rsc.cdn77.org/1904441568/tracks-v1a1/mono.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rt.png" group-title="News",RT English
 http://210.210.155.35/qwr9ew/s/s23/01.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/bbcworld.png" group-title="News",BBC World News
@@ -446,8 +317,6 @@ http://210.210.155.35/qwr9ew/s/s17/01.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/australiach.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master640x360.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/mbc.png" group-title="ARAB",MBC
 http://livecdnh2.tvanywhere.ae/hls/mbc1/03.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/mbc2.png" group-title="ARAB",MBC 2
@@ -482,20 +351,12 @@ http://livecdnh3.tvanywhere.ae/hls/rotclip/03.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotmas/03.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rotkhal.png" group-title="ARAB",Rotana Khalijia
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tv1.png" group-title="Malaysia",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tv2.png" group-title="Malaysia",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tv3.png" group-title="Malaysia",TV3
 https://dl.dropboxusercontent.com/s/oba4i3j9mmszk7t/tv3.m3u8?dl=0
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tv8.png" group-title="Malaysia",8TV
-https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08mhQluPhz7i36Tt4lXgUvZ4)/dm/3/x7a7ru1/s/live-3.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tv99.png" group-title="Malaysia",TV9
-https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08q37LdrJu5MagOP69wGTT-o)/dm/3/x7a7rf7/s/live-3.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/ntv7.png" group-title="Malaysia",NTV7
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08sNNs-Z5FNsBAnDe_mhqwC0)/dm/3/x7a7rxp/s/live-3.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/okey.png" group-title="Malaysia",OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rtmsports.png" group-title="Malaysia",RTM Sports
@@ -506,12 +367,6 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b106400
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/astronaura.png" group-title="Malaysia",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/dramasangat.png" group-title="Malaysia",Drama Sangat
-https://stream-05.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0kgTjT85WMDJVDLeO5sHaRM)/dm/3/x6zvnex/s/live-3.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rtb.png" group-title="Malaysia",RTB Sukmaindera
-https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tvn.png" group-title="Korea",TVN
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1484909976_b1344100_sleng_80944.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/kplus.png" group-title="Korea",K Plus
@@ -522,18 +377,10 @@ http://210.210.155.35/qwr9ew/s/s42/index.m3u8
 https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1053728636_b894100_sleng_80942.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sgem.png" group-title="Korea",Sony Gem
 https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w2048588563_b894100_sleng_papabor.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sbsstar.png" group-title="Korea",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sbsplus.png" group-title="Korea",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/sbskr.png" group-title="Korea",SBS Korea
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/kbsworld.png" group-title="Korea",KBS World
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1028077852_b684100_sleng_enc=ZNfXlsy3xR14nAbr2jkhCg.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/tvnmovies.png" group-title="Korea",TVN Movies
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w2118998815_b1344100_sleng_80943.m3u8
-
-
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/zing.png" group-title="India",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/zeetv.png" group-title="India",Zee TV
@@ -554,8 +401,6 @@ http://216.144.250.174/Sony_MaX_HD/playlist.m3u8
 http://216.144.250.174/Sony_MaX_HD_02/playlist.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/starplus.png" group-title="India",Star Plus
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s320/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AL-BAHJAH TV 
 https://edge.siar.us/albahjahtv/live/playlist.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s320/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",NABAWI TV
@@ -564,385 +409,232 @@ http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",سورة البقرة بصوت العفاسي
 https://server8.mp3quran.net/afs/002.mp3
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",MBC1-HD+
 http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",MBc MSR+
 http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",MBC2-HD+
 http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",MBC4-HD+
 http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",MBC DRAMA+
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",MBC_MAX-HD+
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",mbc_bolly
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/03.m3u8
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",star_movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",star_world
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",music_now
 http://livecdnh1.tvanywhere.ae/hls/music_now/05.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",CINEMA 1
 http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Alfajertv 2
 http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DUBAI SPORTS
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",LBC HD
 http://livecdnh2.tvanywhere.ae/hls/lbc_int/index.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-LDC++
-http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",|AR| ELJADEED+
 http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR:Nbn++
 http://livecdnh1.tvanywhere.ae/hls/nbn/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Halab-Today
 http://streaming.tootvs.com:1935/8010/8010/gmswf.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",ROTANAflamm+
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",ROTANA-khalejeh
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Rotana-Cinema
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:france 24
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR:Al Hurra+
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR:Al_Arabiya HD+
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR:AR:CNBC_Arabiya+
 http://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Aghapy TV live قناة أغابي
 http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1321939483_b1400000_slar_t64SEQ=.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Sat7 Egypt
 http://unirtmp.tulix.tv:1935/sat7arabic/satarabiclive-web.smil/chunklist_w1788004706_b400000.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Koogi TV Egypt
 http://66.165.251.10:1935/koogi.tv/koogi.smil/playlist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",قناة الفادى
 http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",ABN Sat Arabic قناة الأرامية
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Ar:SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Ar:Sat7_Kids
 http://unirtmp.tulix.tv:1935/sat7kids/satkidslive-web.smil/chunklist_w279993825_b1000000.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR CN_Arabia+
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/143/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR NICKELODEAN
 http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/541/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Morocco
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Al Aoula Laayoune
 http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Arryadia
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Arrabiaa
 http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Al Maghribia
 http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Assadissa
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR saheltv
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1343297734.m3u8?v=
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Rasheed+
 http://www.elahmad.com/tv/m3u8/gmswf.m3u8?id=alrasheed
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Alsharqiya tv
 http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?v=
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Alhurra IRAQ
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8?v=
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Dijlah
 http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",arrafidaintv
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?v=
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",,Houna baghdad
 http://www.elahmad.com/tv/m3u8/itwork.m3u8?id=hounabaghdad
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Dijlah
 http://91.134.145.75:10001/Dijlah/index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Alhurra
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?v=1558393494
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DmcDrama
 http://livecdnh1.tvanywhere.ae/hls/dmcdrama/03.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-الوطن
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8?
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",hayat+
 http://livecdnh2.tvanywhere.ae/hls/hayat/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",CBC_Drama
 http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",nahar+
 http://livecdnh2.tvanywhere.ae/hls/nahar_sd/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",nahar drama+
 http://livecdnh2.tvanywhere.ae/hls/nahar_sd_drama/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",kahera+
 http://livecdnh2.tvanywhere.ae/hls/kahera_nas/04.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",watantv
 http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8?
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",roya
 https://roya-live.ercdn.net/roya/roya_720p.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Palestine
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Pbc live
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",palestiniantv
 http://palestiniantv.origin.technostreaming.net:8081/palestiniantv_source/live/chunks.m3u8?
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-ALRAI+
 http://stream01.fasttelco.net:1935/live/_definst_/ALRAI/LIVE_STREAMING/alrai/playlist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Al-Rai*+
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Libya-news
 http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",AR-Libya-TV
 http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",kurd max
 http://31.14.40.139:1935/liveTrans/myStream/chunklist_w1174064262.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",kurd SHOW1
 http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
-
-#EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",KU-Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",sterk
 http://137.74.205.201/live2/sterk-3mbps.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",media hader
 http://137.74.205.201/live1/mh-3mbps.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",de:HR
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Allgau-TV+
 http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w2042767982.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Baden-TV+
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",Campus-TV-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?bitrate=800
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Deutsche-Welle+
 http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Franken-Fernsehen+
 http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w160345619.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-HR-Fernsehen+
 http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Isar-TV+
 http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-MDF.1+
 http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Munchen-TV+
 http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/chunklist_w984595760.m3u8
-
-#EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Noa-4-Norderstedt+
-http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-
-#EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Noa-4-Hamburg+
-http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Oberpfalz-TV+
 http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w793481164.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Offener-Kanal-Magdeburg+
 http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?bitrate=800
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-RFO+
 http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/chunklist_w2048560548.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-tagesschau24+
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Telebasel+
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/chunklist_w210250868.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-TVA-Ostbayern+
 http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w1009778014.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-TV-Oberfranken+
 http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",DE-Tirol-TV+
 http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w516897777.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",EN: DW
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",NL:go tv
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",NL: HK13 TV
 http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",NL:OMAROEB WEST
 http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",NL:omropfryslan
 http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",NL:omropfryslan+
 http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",SW:NORWAY
 http://bgo1.cdn.s3m.no/fs/live/live/chunklist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",SW:kanal10
 http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",SW:kkr
 http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",SW: OPPNA KANALEN
 http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",SW:STORTINGET
 http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:TV 5+
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR: Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:TRACE MZIKI
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:IL TV
 http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:TVPI
 http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:KTO TV
 http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:BIP TV
 http://biptv.tv/live/biptvstream_orig/index.m3u8
-
-#EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",FR:LA CHAINE NORMANDE
-http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",sp:Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 logo="https://1.bp.blogspot.com/--ppgWZqpFQQ/XcrmlBpW5XI/AAAAAAAAAA0/Hclv20Av_XINTadmo9rIcAKT4aQ3SS__QCLcBGAsYHQ/s1600/Islam_Channel_Logo_COLOUR.png" group-title="TV ISLAM",sp:MurciaETB Sat
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-b.m3u8?sd=8&rebase=on
-
-
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/mnx.png" group-title="MOVIE ENTERTAINMENT",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/moviesnow.png" group-title="MOVIE ENTERTAINMENT",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/romedynow.png" group-title="MOVIE ENTERTAINMENT",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/starmovies.png" group-title="MOVIE ENTERTAINMENT",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/cinemaworld.png" group-title="MOVIE ENTERTAINMENT",Cinema World
-http://210.210.155.66/h/h04/01.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/mnx.png" group-title="MOVIE ENTERTAINMENT",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/moviesnow.png" group-title="MOVIE ENTERTAINMENT",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/hitsmovies.png" group-title="MOVIE ENTERTAINMENT",HITS Movies
-http://111.221.44.148:19410/upload/stream-off.mp4
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/starmovies.png" group-title="MOVIE ENTERTAINMENT",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/cinemaworld.png" group-title="MOVIE ENTERTAINMENT",Cinema World
-http://210.210.155.66/h/h04/01.m3u8
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/scm.png" group-title="MOVIE ENTERTAINMENT",Star Chinese Movies
-http://111.221.44.148:19410/upload/stream-off.mp4
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/ccm.png" group-title="MOVIE ENTERTAINMENT",Celestial Classic Movies
-http://111.221.44.148:19410/upload/stream-off.mp4
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/scmlegend.png" group-title="MOVIE ENTERTAINMENT",Star Chinese Movies Legend
-http://111.221.44.148:19410/upload/stream-off.mp4
 #EXTINF:-1 logo="https://i.ibb.co/58dvXvh/Flik.png" group-title="MOVIE ENTERTAINMENT", FLIK
 https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
-#EXTINF:-1 logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="MOVIE ENTERTAINMENT", AXN
-http://210.210.155.66/h/h141/01.m3u8
 #EXTINF:-1 logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="MOVIE ENTERTAINMENT", Warner tv
 https://dl.dropboxusercontent.com/s/ckq9svw348mvnwy/WARNERTV.m3u8?dl=0
 #EXTINF:-1 logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="MOVIE ENTERTAINMENT", HBO
@@ -953,8 +645,6 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="MOVIE ENTERTAINMENT", HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-#EXTINF:-1 logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="MOVIE ENTERTAINMENT", Cinemax
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 #EXTINF:-1 logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="MOVIE ENTERTAINMENT", Red by HBO
 #EXTINF:-1 logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="MOVIE ENTERTAINMENT", FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
@@ -967,26 +657,10 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=0ECF990E8CD52A7B029
 http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="MOVIE ENTERTAINMENT", Blue Ant Entertainment
 http://210.210.155.35/dr9445/h/h16/01.m3u8
-#EXTINF:-1 logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="MOVIE ENTERTAINMENT", Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="MOVIE ENTERTAINMENT", Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="MOVIE ENTERTAINMENT", Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/istanafm.png" group-title="Radio",Istana FM Ternate
-http://stream.suararadio.com:8000/ternate_istanafm_stereo
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/dmsfm.png" group-title="Radio",DMS FM Ambon
 http://live2.indostreamserver.com:8130/stream
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/rockfm.png" group-title="Radio",Rock FM Jayapura
-http://i.klikhost.com:9020/;
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/trendyfm.png" group-title="Radio",Trendy FM Manado
-http://103.28.148.18:8018/;
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/telstarfm.png" group-title="Radio",Telstar FM Makassar
 http://telstarfm.indostreamserver.com:8174/;
-#EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/iradiofm.png" group-title="Radio",i Radio FM Jakarta
-http://cloudstreaming.mramedia.com:8000/live
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/ardanfm.png" group-title="Radio",Ardan FM Bandung
 http://listento.ardanradio.com:1059/;
 #EXTINF:-1 logo="https://tvbeta.my.id/logo/tivi/geronimofm.png" group-title="Radio",Geronimo FM Jogja
